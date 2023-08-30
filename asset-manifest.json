@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/food-order-app/static/css/main.a0f06dbd.css",
+    "main.js": "/food-order-app/static/js/main.3926a68e.js",
+    "static/media/georgian-traditional-food-img.jpg": "/food-order-app/static/media/georgian-traditional-food-img.7c075104bb635300058f.jpg",
+    "index.html": "/food-order-app/index.html",
+    "main.a0f06dbd.css.map": "/food-order-app/static/css/main.a0f06dbd.css.map",
+    "main.3926a68e.js.map": "/food-order-app/static/js/main.3926a68e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0f06dbd.css",
+    "static/js/main.3926a68e.js"
+  ]
+}
